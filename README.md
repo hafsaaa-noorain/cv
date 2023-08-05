@@ -1,1 +1,1 @@
-# cv (Udemy Course Project)
+# CV (Udemy Course Project)
